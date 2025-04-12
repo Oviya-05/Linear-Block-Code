@@ -113,6 +113,7 @@ add = np.array(add)
 add1 = add % 2
 print(f"The correct codeword is : " + " " .join(map(str,add1)))  
 ~~~
+
 ## Output:
 ![image](https://github.com/user-attachments/assets/80350a68-a926-4a70-9486-2eeb15fbe512)
 ![image](https://github.com/user-attachments/assets/903c1129-8d52-4c5f-8d4b-7d6610fe4fb9)
