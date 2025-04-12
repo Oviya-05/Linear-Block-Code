@@ -115,12 +115,16 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ~~~
 
 ## Calculation:
-![image](https://github.com/user-attachments/assets/0215cf51-dd51-4110-88e3-353850d73ac8)
-![image](https://github.com/user-attachments/assets/ffce4f9a-3f8a-4fbd-ae2f-7f10743c11da)
+
+![image](https://github.com/user-attachments/assets/56f1a61b-b7ea-4df6-8b90-b253aeddf7df)
+![Uploading image.png…]()
+
+
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/da28c8e2-f08a-4283-91b7-19c584b1fc6e)
+
+![image](https://github.com/user-attachments/assets/a362bea5-ec17-42c4-8a63-cd2c3d5404dd)
 
 
 ## Results:
