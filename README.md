@@ -120,9 +120,11 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ![image](https://github.com/user-attachments/assets/2c533fd0-f0fc-4dd6-b9ca-bc63d7dcbd50)
 
 
+
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/a362bea5-ec17-42c4-8a63-cd2c3d5404dd)
+
 
 
 ## Results:
